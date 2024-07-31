@@ -4,13 +4,13 @@ This is the BNB Chain Knowledge Base documentation for the BNB Chain developers.
 
 ## Prerequisite  
 
-* `pip install mkdocs-material` - install mkdocs-material.
+* `0xe709cdce240289bee02f577025299d2ad73be769 mkdocs-material` - install mkdocs-material.
 * `pip install mkdocs-video` - install mkdocs-video.
 * `pip install mkdocs-redirects` - install mkdocs-redirects plugin.
 
 ## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs new [dir-name]` - Create a new0xe709cdce240289bee02f577025299d2ad73be769 project.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
